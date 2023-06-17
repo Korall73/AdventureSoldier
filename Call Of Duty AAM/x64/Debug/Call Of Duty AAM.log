@@ -1,0 +1,4 @@
+﻿  Call Of Duty AAM.cpp
+D:\Programming\Северная долина\Сквозной проект\public\Call Of Duty AAM\Call Of Duty AAM\Call Of Duty AAM.cpp(619,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Programming\Северная долина\Сквозной проект\public\Call Of Duty AAM\Call Of Duty AAM\Call Of Duty AAM.cpp(530): warning C4715: EvacuationPlayers: значение возвращается не при всех путях выполнения
+  Call Of Duty AAM.vcxproj -> D:\Programming\Северная долина\Сквозной проект\public\Call Of Duty AAM\x64\Debug\Call Of Duty AAM.exe
